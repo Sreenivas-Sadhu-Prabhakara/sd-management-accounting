@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-management-accounting
+description: "BIAN Service Domain: Management Accounting (Process pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Finance"
+  bian/asset-type: "Management Account"
+  bian/control-record: "Management Account Procedure"
